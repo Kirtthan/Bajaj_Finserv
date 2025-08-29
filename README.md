@@ -79,17 +79,17 @@ pip install -r requirements.txt
 
 Set environment variables:
 
-export FULL_NAME_LOWER="parth_suri"
-export DOB_DDMMYYYY="17092004"
-export EMAIL="parthsuri009@gmail.com"
+export FULL_NAME_LOWER="kirtthan_duvvi"
+export DOB_DDMMYYYY="17032005"
+export EMAIL="kirtthanduvvi17@gmail.com"
 export ROLL_NUMBER="22BCE0061"
 
 
 (Windows CMD)
 
-set FULL_NAME_LOWER=parth_suri
-set DOB_DDMMYYYY=17092004
-set EMAIL=parthsuri009@gmail.com
+set FULL_NAME_LOWER=kirtthan_duvvi
+set DOB_DDMMYYYY=17032005
+set EMAIL=kirtthanduvvi17@gmail.com
 set ROLL_NUMBER=22BCE0061
 
 
@@ -195,3 +195,4 @@ https://<your-project>.vercel.app/bfhl
 
 
 And the response must exactly match the required schema with your user_id, email, and roll_number.
+
