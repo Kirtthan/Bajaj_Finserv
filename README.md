@@ -191,8 +191,9 @@ Numbers not returned as strings → never cast tokens to int before appending to
 
 The URL you submit must be:
 
-https://vercel.com/kirtthans-projects/bajaj-finserv/BHZoH1jqXMPq28y5Jho9aQoGAnXF
+https://bajaj-finserv-black-omega.vercel.app/
 
 And the response must exactly match the required schema with your user_id, email, and roll_number.
+
 
 
